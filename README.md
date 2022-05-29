@@ -1,0 +1,10 @@
+# Engage2022-Submission :wave:
+## This is my Track 2: Data Analytics Submission for Microsoft Engage 2022 Program
+---
+### To Run the application, clone it and use command
+
+`streamlit run app.py`
+
+### The app is also deployed with the following URL
+
+[Click here](https://share.streamlit.io/xodakshxo/engage2022-submission/app.py)
