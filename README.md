@@ -8,3 +8,6 @@
 ### The app is also deployed with the following URL
 
 [Click here](https://share.streamlit.io/xodakshxo/engage2022-submission/app.py)
+
+---
+**Note** : The depedencies for the app is given in the `requirements.txt` file, install them in order to run the app without any errors :innocent:
